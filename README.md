@@ -123,14 +123,9 @@ Reports are also saved locally to:
 
 **Michael Cozier**
 DevOps Intern | Linux & Automation Enthusiast
-📫 [mikecozier@hotmail.com](mailto:mikecozier@hotmail.com)
 
 ---
 
 ## 🛡️ License
 
 MIT License. Feel free to modify and adapt.
-
-```
-
----
