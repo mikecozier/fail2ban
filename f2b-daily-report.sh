@@ -1,5 +1,5 @@
 #!/bin/bash
-i
+
 TO_EMAIL="youremailhere@hotmail.com"
 MUTTRC="/home/yourusername/mail/.muttrc"
 DATE=$(date '+%Y-%m-%d %H:%M:%S')
